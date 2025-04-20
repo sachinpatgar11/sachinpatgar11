@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with a knack for b
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** www.linkedin.com/in/sachin-patgar
-- **Portfolio:** coming up shortly
+- **LinkedIn:** [Sachin Patgar](https://linkedin.com/in/sachin-patgar)
+- **Portfolio:** *Coming-up shortly*
 
 ---
 
