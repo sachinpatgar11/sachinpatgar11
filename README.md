@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with a knack for b
 - **Tools:** Git, Bitbucket, npm, jenkins, VS Code, JIRA, Figma
 - **UI/UX:** Responsive Design, Accessibility, Figma to Code
 
----
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -60,15 +60,6 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with a knack for b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinpatgar11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sachinpatgar11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-</div>
-
-###
 
 ---
 
