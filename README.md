@@ -72,9 +72,8 @@ Welcome to my GitHub! I'm a passionate **Frontend Developer** with a knack for b
 
 ## 📂 Featured Projects
 
-Here are a few highlights:
+- **Coming up shortly**
 
-- 🔹 **Food-Order** – Food Order App is a simple and responsive web application built with React that allows users to browse a menu, add items to a cart, and place orders. It uses a local database connection (e.g., JSON server or local storage) to manage menu data and order history, making it perfect for testing or small-scale deployments.
 
 
 > Check out my pinned repositories for more 👇
