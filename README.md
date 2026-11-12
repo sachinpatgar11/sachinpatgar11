@@ -11,10 +11,10 @@ I have experience working with enterprise frontend applications and Adobe Experi
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
 - JavaScript (ES6+)
 - React
+- HTML5
+- CSS3
 - Next.js
 - Tailwind CSS
 - SASS
